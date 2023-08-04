@@ -1,0 +1,1 @@
+./gradlew build -Dorg.gradle.java.home="C:\Program Files\Java\jdk-8.0.332.09-hotspot" --stacktrace %*
