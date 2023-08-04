@@ -2,7 +2,7 @@
 
 This is a list of supported languages, if you want to help translate use Crowdin
 
-[![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_64h.png)](https://crowdin.com/project/lifemc)
+[![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_64h.png)](https://crowdin.com/project/moderneconomy)
 
 ## Afrikaans → (af_za.json)
 
