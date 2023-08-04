@@ -1,16 +1,16 @@
 ***
-# EconomyPlus
- _Spigot plugin for 1.8 to 1.19_
+# ModernEconomy
+ _Spigot plugin for 1.8 to 1.20 and beyond!_
  
 This page is under construction
 
-If you need support > **https://discord.itswagpvp.dev**
+If you need support > 
 
 ## License
 
-![License](https://img.shields.io/github/license/ItsWagPvP/EconomyPlus?style=for-the-badge)
+![License](https://img.shields.io/github/license/Nukecraft5419/ModernEconomy?style=for-the-badge)
 
-## Maven Instructions [![](https://jitpack.io/v/ItsWagPvP/EconomyPlus.svg)](https://jitpack.io/#ItsWagPvP/EconomyPlus)
+## Maven Instructions [![](https://jitpack.io/v/Nukecraft5419/ModernEconomy.svg)](https://jitpack.io/#Nukecraft5419/ModernEconomy)
 
 ### Add Repository
 	<repositories>
@@ -22,9 +22,9 @@ If you need support > **https://discord.itswagpvp.dev**
  
 ### Add Dependency
 	<dependency>
-	    <groupId>com.github.ItsWagPvP</groupId>
-	    <artifactId>EconomyPlus</artifactId>
-	    <version>4.9</version>
+	    <groupId>com.github.Nukecraft5419</groupId>
+	    <artifactId>ModernEconomy</artifactId>
+	    <version>0.1.0</version>
 	</dependency>
 
 ***
