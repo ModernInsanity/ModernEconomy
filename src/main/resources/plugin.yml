@@ -1,0 +1,33 @@
+name: EconomyPlus
+version: ${project.version}
+main: me.itswagpvp.economyplus.EconomyPlus
+api-version: 1.13
+authors: [ _ItsWagPvP ]
+load: STARTUP
+softdepend:
+  - Vault
+  - PlaceholderAPI
+  - HolographicDisplays
+commands:
+  economyplus:
+    description: Plugin command.
+    aliases: ep
+    usage: /<command>
+  eco:
+    aliases: economy
+    description: Modify other players balances.
+  bal:
+    description: View your accounts balance.
+    aliases:
+      - balance
+      - money
+  pay:
+    description: Pay a player with money.
+  paytoggle:
+    description: Toggle whether you want to recieve money.
+  baltop:
+    description: View the top balanced players.
+    aliases:
+      - balancetop
+  bank:
+    description: Deposit, Withdraw or View your bank account.
