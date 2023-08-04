@@ -1,0 +1,13 @@
+/*
+ *  ModernEconomy is a Minecraft plugin
+ *  Copyright (C) 2023 Nukecraft5419
+ *
+ *  Licensed under GNU License.  Please see the LICENSE document 
+ *  as found in the root directory of this project.
+ *
+ */
+
+
+rootProject.name = 'ModernEconomy'
+/* include 'mgpq-core' */
+
