@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "yzhang.markdown-all-in-one",
+    "bierner.github-markdown-preview",
+    "tamasfe.even-better-toml",
+    "vivaxy.vscode-conventional-commits",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "github.vscode-github-actions",
+    "github.codespaces",
+    "esbenp.prettier-vscode"
+  ]
+}
